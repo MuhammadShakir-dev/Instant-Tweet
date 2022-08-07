@@ -1,1 +1,62 @@
+  body{
+                padding: 0%;
+                margin: 0%;
+                font-family: 'Courier New', Courier, monospace;
+             }
+
+             h1{
+                text-align: center;
+             }
+
+             #formCont{
+                margin-left:34% ;
+                border: 1px solid;
+                width: 500px;
+                height: 330px;
+             }
+
+             label{
+                display: block;
+                margin-top:10%;
+                margin-bottom: 8px;
+                text-align: center;
+             }
+
+             input{
+                display: block;
+                margin-left:auto;
+                margin-right: auto;
+                width: 300px;
+                border-top: none;
+                border-left: none;
+                border-right: none;
+                border-color: lightgray;
+             }
+             button{
+                display: block;
+                width:200px;
+                margin-top: 8%;
+                margin-left:auto;
+                margin-right: auto;
+                height:40px;
+                color: white;
+                background-color: skyblue;
+                border: none;
+                box-shadow: 1px 1px 5px 0px grey;
+             };
+
+                  
+             input:focus{
+                outline: none;
+             }
+
+             #tweetCont{
+                width:800px;
+                height:300px;
+                margin:0% auto ;
+             }
+
+             ol li {
+                text-align: center;
+             }
 
